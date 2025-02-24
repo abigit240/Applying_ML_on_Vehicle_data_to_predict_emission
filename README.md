@@ -38,3 +38,20 @@ _(Plots included in repository)_
    ```bash
    git clone https://github.com/abigit240/Applying_ML_on_Vehicle_data_to_predict_emission.git
    cd fuel_consumption_vs_emission_analysis_using_linear_regression
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the Python script:
+   python fuel_consumption_vs_emission_analysis_using_linear_regression.py
+
+📜 License
+   
+   This project is licensed under the MIT License.
+
+🤝 Contributing
+   
+   Feel free to submit pull requests or report issues.
+
+💡 For questions or collaborations, reach out via GitHub Issues! 🚀
+
